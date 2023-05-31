@@ -5,5 +5,5 @@ CRUD de usuarios del sistema
 
 Funciones
 ----------
-. crear usuario
-. editar usuario
+- crear usuario
+- editar usuario
